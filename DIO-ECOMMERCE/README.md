@@ -13,4 +13,17 @@ Contudo, estes podem ter vendedores distintos (terceiros)
 * Um produto ou mais compoem o pedido
 * O pedido pode ser cancelado
 ## Narrativa FORNECEDOR & ESTOQUE
-* Em andamento...
+* Fornecedor possuirá CNPJ, Nome fantasia e razão social
+* Estoque possuirá local e quantidade de itens
+## Narrativa pagamento
+* Haverá método de pagamento
+* Data de pagamento
+* Status do pagamento
+* O cliente que realizou o pagamento
+* Valor do pagamento
+## Narrativa Entrega
+* Local de entrega
+* CEP
+* Cliente para quem vai a entrega
+* Id dos pedidos
+* Peso da entrega
